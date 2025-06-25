@@ -32,7 +32,7 @@ A high-performance, parallelized Python script for extracting faces from images.
 ### 2. Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/your-username/your-repo-name.git](https://github.com/Daemon0ps/yunet_lora_face_extraction.git)
 cd your-repo-name
 ```
 
